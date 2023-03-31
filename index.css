@@ -46,8 +46,8 @@ a {
     margin: 0px;
 }
 
-a:hover, .contents a:hover {
-    color: red !important;
+a:hover, .contents a:hover{
+    color: red;
     text-decoration: underline;
 }
 
@@ -72,7 +72,6 @@ li {
 .contents a {
     color: white;
 }
-
 
 #jump-top {
     text-align: center;
