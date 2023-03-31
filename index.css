@@ -1,0 +1,83 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(83, 0, 0);
+    color: white;
+}
+
+.body {
+    width: 70%;
+    margin: auto;
+}
+
+#banner {
+    width: 100%;
+    margin: auto;
+}
+
+.flex-container {
+    display: flex;
+    gap: 60px;
+    margin: 10%;
+    margin-top: 20px;
+}
+
+.flex-item-2 {
+    width: 150%;
+}
+
+.profile-picture {
+    width: 100%;
+    border-bottom: 5px solid white;
+}
+
+.blockquote {
+    background-color: white;
+    color: black;
+    padding: 8px 25px;
+    border-radius: 10px;
+    
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    padding-right: 10px;
+    padding: 0px;
+    margin: 0px;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.reference {
+    text-align: right;
+    font-style: italic;
+}
+
+li {
+    /* border: 2px solid white; */
+    margin-bottom: 20px;
+}
+
+.contents {
+    width: 160px;
+    border: 2px solid rgb(161, 2, 2);
+    padding: 0px 20px;
+    height: 240px;
+    margin-top: 55px;
+}
+
+.contents a {
+    color: white;
+}
+
+#jump-top {
+    text-align: center;
+    margin-left: 45%;
+}
+
+.section {
+    margin: 55px auto 10px;
+}
